@@ -1,7 +1,22 @@
+  .small-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    /* identical to box height, or 200% */
+
+    letter-spacing: 0.02em;
+
+    /* Серый */
+
+    color: #3C3C3C;
+  }
+  
   .slidercontent{
     background-color: #0A121E;
     margin-top: 1005;
-    height: 2559.54px;
+
   }
   .container-slider {
     margin: auto;
@@ -103,6 +118,29 @@
     /* identical to box height, or 124% */
     letter-spacing: 0.02em;
     color: #FFFFFF;
+  }
+  h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 0.02em;
+    color: #0A121E;
+  }
+  h4{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height, or 130% */
+
+    letter-spacing: 0.02em;
+
+    /* Чёрный */
+
+    color: #0A121E;
   }
 
   .slider-nav .item {
